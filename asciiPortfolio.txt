@@ -1,0 +1,13 @@
+$ git checkout HEAD portrait.txt
+$ git add portrait.txt
+$ git commit -m "First commit for ascii portfolio"[master b64283b] First commit for ascii portfolio
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+$ git add .
+$ git commit -m "Second commit for ascii portfolio"
+[master 4dbc5d9] Second commit for ascii portfolio
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+$ git add .
+$ git checkout HEAD house.txt
+$ git commit -m "Final commit without house.txt"
+[master f38eb53] Final commit without house.txt
+ 2 files changed, 2 insertions(+), 2 deletions(-)
