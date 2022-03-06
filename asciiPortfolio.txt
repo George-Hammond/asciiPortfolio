@@ -11,3 +11,5 @@ $ git checkout HEAD house.txt
 $ git commit -m "Final commit without house.txt"
 [master f38eb53] Final commit without house.txt
  2 files changed, 2 insertions(+), 2 deletions(-)
+great
+dasuua;pp
